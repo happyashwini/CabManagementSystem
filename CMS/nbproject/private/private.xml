@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Drive/CMS/CMS/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Drive/CMS/CMS/src/java/com/cms/model/EmailUtility.java</file>
+            <file>file:/D:/Drive/CMS/CMS/web/ForgotPassword.jsp</file>
+            <file>file:/D:/Drive/CMS/CMS/web/Sucess.jsp</file>
+            <file>file:/D:/Drive/CMS/CMS/web/Registered.jsp</file>
+            <file>file:/D:/Drive/CMS/CMS/web/Menu.jsp</file>
+            <file>file:/D:/Drive/CMS/CMS/src/java/com/cms/servlet/ResetPasswordServlet.java</file>
+            <file>file:/D:/Drive/CMS/CMS/src/java/com/cms/servlet/UserServlet.java</file>
+            <file>file:/D:/Drive/CMS/CMS/web/Login.jsp</file>
+            <file>file:/D:/Drive/CMS/CMS/src/java/com/cms/filter/MainFilter.java</file>
+            <file>file:/D:/Drive/CMS/CMS/src/java/com/cms/dao/UserDao.java</file>
+            <file>file:/D:/Drive/CMS/CMS/web/Register.jsp</file>
+            <file>file:/D:/Drive/CMS/CMS/web/StaffAttend.jsp</file>
+            <file>file:/D:/Drive/CMS/CMS/src/java/com/cms/model/User.java</file>
+        </group>
+    </open-files>
+</project-private>
